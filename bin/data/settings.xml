@@ -1,0 +1,24 @@
+<group>
+	<OCULOMATIC>0.4</OCULOMATIC>
+	<Min_Threshold>15</Min_Threshold>
+	<Max_Threshold>22</Max_Threshold>
+	<Min_Area>4800</Min_Area>
+	<Max_Area>20800</Max_Area>
+	<Circularity>0.1</Circularity>
+	<Convexity>0.87</Convexity>
+	<Inertia>0.01</Inertia>
+	<Record_Video>0</Record_Video>
+	<screen_size>1000x600</screen_size>
+<group/>
+<Pupil_Threshold>34</Pupil_Threshold>
+	<CR_Threshold>33</CR_Threshold>
+<Min_Area_P>2800</Min_Area_P>
+	<Max_Area_P>9800</Max_Area_P>
+	<Min_Area_CR>45</Min_Area_CR>
+	<Max_Area_CR>210</Max_Area_CR>
+<Heuristic_filter>1</Heuristic_filter>
+	<X_Gain>40</X_Gain>
+	<Y_Gain>40</Y_Gain>
+<Invert_X>0</Invert_X>
+	<Invert_Y>0</Invert_Y>
+</group>
